@@ -13,3 +13,14 @@ Welcome to the Dad Jokes Chrome Extension! This fun and simple extension brings 
 - popup.html: The HTML structure for displaying the joke in the popup.
 - styles.css: CSS file that styles the popup with a modern and appealing look.
 - script.js: JavaScript file responsible for fetching the joke from the API and updating the popup content.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/dad-jokes-extension.git
+
+2. Load the Extension in Chrome:
+- Open Chrome and go to chrome://extensions/.
+- Enable "Developer mode" using the toggle switch in the top right corner.
+- Click "Load unpacked" and select the directory where you cloned the repository.
