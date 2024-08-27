@@ -18,7 +18,7 @@ Welcome to the Dad Jokes Chrome Extension! This fun and simple extension brings 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/dad-jokes-extension.git
+   git clone https://github.com/Mihir8968/jokes-extension.git
 
 2. Load the Extension in Chrome:
 - Open Chrome and go to chrome://extensions/.
